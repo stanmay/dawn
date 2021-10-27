@@ -1,4 +1,13 @@
 {
   "current": {
+    "blocks": {
+      "mex-cart-theme-app-extension": {
+        "type": "shopify:\/\/apps\/mex-cart-discount-on-cart\/blocks\/app-embed\/fb02218c-8a0b-4969-af9f-edae9fae809a",
+        "settings": {
+          "theme_id": 125635199167
+        },
+        "disabled": false
+      }
+    }
   }
 }
